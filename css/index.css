@@ -1,0 +1,16 @@
+/* header  */
+
+#topo a {
+    color: #00B4AC;
+    font-size: 1.2em;
+    margin: 2.5%;
+    font-weight: 400;
+}
+
+#topo .icone {
+    font-size: 1.6em !important;
+}
+
+#topo .icone:hover {
+    color: #F26E20;
+}
